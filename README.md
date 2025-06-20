@@ -28,7 +28,6 @@ First party resources, sites, and content provided and supported by ServiceNow.
 - [ServiceNow Products](https://www.servicenow.com/products-by-category.html) - Product overviews, and landing page to practically all other ServiceNow sites. View all products and solutions by category, industry, and A-Z list.
 - [Official ServiceNow Product Documentation](https://docs.servicenow.com/) - Detailed product documentation and administration guides.
 - [Welcome to ServiceNow course](https://nowlearning.servicenow.com/lxp/en/now-platform/welcome-to-servicenow?id=learning_course_prev&course_id=2f61d383475cf95890542034846d4307) - Explore the seven core areas of ServiceNow and how to navigate the Platform.
-- [ServiceNow Foundation Videos](https://community.servicenow.com/community?id=community_article&sys_id=a2dc2a65dbd0dbc01dcaf3231f96197e) - Get a quick introduction to ServiceNow with a short series of videos.
 - [Now Support](https://support.servicenow.com/now) - Keep track of your company's instance maintenance, cases, and search troubleshooting articles.
 
 ## Development
