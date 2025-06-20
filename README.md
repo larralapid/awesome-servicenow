@@ -42,7 +42,6 @@ First party resources, sites, and content provided and supported by ServiceNow.
 - [ServiceNow SubReddit](https://www.reddit.com/r/servicenow) - 20,000+ member community on Reddit.
 - [SubReddit Discord Server](https://discord.com/invite/EBXYZw3) - Discord community based on the SubReddit.
 - [ServiceNow MVP Program](https://www.servicenow.com/community/mvp-program/ct-p/mvp) - Annual nomination program to recognize community members that give back.
-- [WomenNow](https://www.womennow.sn/) - A spotlight for women in the ServiceNow community doing awesome things.
 
 ### Tools and Browser Extensions
 
