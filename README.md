@@ -16,9 +16,8 @@
 
 First party resources, sites, and content provided and supported by ServiceNow.
 
-- [Resources from Now Support](https://support.servicenow.com/kb?id=kb_article_view&sysparm_article=KB0540930) - Hub for various product support landing pages.
+- [KB Article: Resources from Now Support](https://support.servicenow.com/kb?id=kb_article_view&sysparm_article=KB0540930) - Hub for various product support landing pages.
 - [NOW Community](https://community.servicenow.com/community?id=community_home) - Global forum for customers, developers, and partners to collaborate and share. Ask questions, read and write blog posts and articles, join events and more.
-- [Customer Success Center](https://www.servicenow.com/success.html) - Customers' one-stop shop for prescriptive, actionable resources designed to make you more successful. Playbooks, best practices, value calculators, insights, checklists, quick answers.
 - [Resources page](https://www.servicenow.com/resources.html) - Ebooks, white papers, infographics, analyst reports, data sheets, case studies, webinars, and more. A treasure-trove of downloadable content to learn and share.
 - [Now Create](https://nowlearning.servicenow.com/nowcreate) - Success packs, process guides, workshop decks, templates, and more. Create exceptional business outcomes, faster and with less risk using ServiceNow's Now Create methodology. Prescriptive guidance on how the product suites built on the Now Platform are intended to be used.
 
