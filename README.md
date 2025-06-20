@@ -38,7 +38,8 @@ First party resources, sites, and content provided and supported by ServiceNow.
 
 ### Community
 
-- [SNDevs Slack Channel](https://sndevs.com/) - The original independent ServiceNow developer community, with over 13,000 registered and nearly 1,000 active monthly admins, developers, customer, partners, and ServiceNow employees.
+- [SNDevs Slack Channel](https://join.slack.com/t/sndevs/shared_invite/zt-2wcse33vl-hTleAK6_jeYwdOApEwnQVg) - The original independent ServiceNow developer community, with over 13,000 registered and nearly 1,000 active monthly admins, developers, customer, partners, and ServiceNow employees.
+- [SNDevs Linktree] (https://sndevs.com/) = SNDevs useful links.
 - [ServiceNow SubReddit](https://www.reddit.com/r/servicenow) - 20,000+ member community on Reddit.
 - [SubReddit Discord Server](https://discord.com/invite/EBXYZw3) - Discord community based on the SubReddit.
 - [ServiceNow MVP Program](https://www.servicenow.com/community/mvp-program/ct-p/mvp) - Annual nomination program to recognize community members that give back.
