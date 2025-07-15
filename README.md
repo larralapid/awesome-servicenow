@@ -89,7 +89,7 @@ First party resources, sites, and content provided and supported by ServiceNow.
 
 - [Developer Blog](https://www.servicenow.com/community/developer-advocate-blog/bg-p/developer-advocate-blog) - All things Developer Program.
 - [jace.pro](https://jace.pro/blog/) - Jace Benson's blog.
-- [WomenNow Blog](https://www.womennow.sn/posts) - Reader-submitted posts that Spotlight women doing awesome things in the ServiceNow community.
+- [WomenNow Blog](https://womennow.blog) - Reader-submitted posts that Spotlight women doing awesome things in the ServiceNow community.
 
 ### Podcasts
 
