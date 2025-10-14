@@ -16,9 +16,8 @@
 
 First party resources, sites, and content provided and supported by ServiceNow.
 
-- [Resources from Now Support](https://support.servicenow.com/kb?id=kb_article_view&sysparm_article=KB0540930) - Hub for various product support landing pages.
+- [KB Article: Resources from Now Support](https://support.servicenow.com/kb?id=kb_article_view&sysparm_article=KB0540930) - Hub for various product support landing pages.
 - [NOW Community](https://community.servicenow.com/community?id=community_home) - Global forum for customers, developers, and partners to collaborate and share. Ask questions, read and write blog posts and articles, join events and more.
-- [Customer Success Center](https://www.servicenow.com/success.html) - Customers' one-stop shop for prescriptive, actionable resources designed to make you more successful. Playbooks, best practices, value calculators, insights, checklists, quick answers.
 - [Resources page](https://www.servicenow.com/resources.html) - Ebooks, white papers, infographics, analyst reports, data sheets, case studies, webinars, and more. A treasure-trove of downloadable content to learn and share.
 - [Now Create](https://nowlearning.servicenow.com/nowcreate) - Success packs, process guides, workshop decks, templates, and more. Create exceptional business outcomes, faster and with less risk using ServiceNow's Now Create methodology. Prescriptive guidance on how the product suites built on the Now Platform are intended to be used.
 
@@ -29,7 +28,6 @@ First party resources, sites, and content provided and supported by ServiceNow.
 - [ServiceNow Products](https://www.servicenow.com/products-by-category.html) - Product overviews, and landing page to practically all other ServiceNow sites. View all products and solutions by category, industry, and A-Z list.
 - [Official ServiceNow Product Documentation](https://docs.servicenow.com/) - Detailed product documentation and administration guides.
 - [Welcome to ServiceNow course](https://nowlearning.servicenow.com/lxp/en/now-platform/welcome-to-servicenow?id=learning_course_prev&course_id=2f61d383475cf95890542034846d4307) - Explore the seven core areas of ServiceNow and how to navigate the Platform.
-- [ServiceNow Foundation Videos](https://community.servicenow.com/community?id=community_article&sys_id=a2dc2a65dbd0dbc01dcaf3231f96197e) - Get a quick introduction to ServiceNow with a short series of videos.
 - [Now Support](https://support.servicenow.com/now) - Keep track of your company's instance maintenance, cases, and search troubleshooting articles.
 
 ## Development
@@ -40,11 +38,11 @@ First party resources, sites, and content provided and supported by ServiceNow.
 
 ### Community
 
-- [SNDevs Slack Channel](https://sndevs.com/) - The original independent ServiceNow developer community, with over 13,000 registered and nearly 1,000 active monthly admins, developers, customer, partners, and ServiceNow employees.
+- [SNDevs Slack Channel](https://join.slack.com/t/sndevs/shared_invite/zt-2wcse33vl-hTleAK6_jeYwdOApEwnQVg) - The original independent ServiceNow developer community, with over 13,000 registered and nearly 1,000 active monthly admins, developers, customer, partners, and ServiceNow employees.
+- [SNDevs Linktree] (https://sndevs.com/) = SNDevs useful links.
 - [ServiceNow SubReddit](https://www.reddit.com/r/servicenow) - 20,000+ member community on Reddit.
 - [SubReddit Discord Server](https://discord.com/invite/EBXYZw3) - Discord community based on the SubReddit.
 - [ServiceNow MVP Program](https://www.servicenow.com/community/mvp-program/ct-p/mvp) - Annual nomination program to recognize community members that give back.
-- [WomenNow](https://www.womennow.sn/) - A spotlight for women in the ServiceNow community doing awesome things.
 
 ### Tools and Browser Extensions
 
@@ -91,7 +89,7 @@ First party resources, sites, and content provided and supported by ServiceNow.
 
 - [Developer Blog](https://www.servicenow.com/community/developer-advocate-blog/bg-p/developer-advocate-blog) - All things Developer Program.
 - [jace.pro](https://jace.pro/blog/) - Jace Benson's blog.
-- [WomenNow Blog](https://www.womennow.sn/posts) - Reader-submitted posts that Spotlight women doing awesome things in the ServiceNow community.
+- [WomenNow Blog](https://womennow.blog) - Reader-submitted posts that Spotlight women doing awesome things in the ServiceNow community.
 
 ### Podcasts
 
